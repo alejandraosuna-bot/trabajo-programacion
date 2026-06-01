@@ -8,14 +8,14 @@ Fortalezas:
 
 * Responsabilidad.
 * Trabajo en equipo.
-* Diciplina
+* Disciplina
 
 Habilidades:
 
 * Resolución de problemas.
 * Aprendizaje autónomo.
 
-## Integrante 2
+## Mateo Guerra Londono
 
 (Completar)
 
