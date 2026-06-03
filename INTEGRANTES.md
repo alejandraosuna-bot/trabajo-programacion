@@ -17,7 +17,18 @@ Habilidades:
 
 ## Mateo Guerra Londono
 
-(Completar)
+Estudiante de Ingenieria Industrial
+
+Fortalezas:
+
+*Toma de decisiones
+*Disciplina
+*Persistencia
+
+Habilidades:
+
+*Aprendizaje rápido 
+*Pensamiento Analitico
 
 
 
