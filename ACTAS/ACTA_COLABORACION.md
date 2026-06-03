@@ -23,7 +23,7 @@ El equipo trabajará de manera colaborativa utilizando GitHub para el control de
 En caso de desacuerdos:
 
 1. Se dialogará entre los integrantes.
-2. Se buscará una solución consensuada.
+2. Se buscará una solución aceptada por ambos.
 3. Si no se llega a un acuerdo, se consultará al docente para orientación.
 
 ### Normas de Trabajo
