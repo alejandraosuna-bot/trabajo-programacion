@@ -35,7 +35,7 @@ En caso de desacuerdos:
 
 ### Fecha
 
-28 / 5 / 2026
+28 / 05 / 2026
 
 ### Firmas
 <img width="150" height="80" alt="image" src="https://github.com/user-attachments/assets/e44f28ae-11f9-4790-900b-a248b79bd4b4" />
