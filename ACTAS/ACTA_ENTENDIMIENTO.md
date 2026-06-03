@@ -31,15 +31,14 @@ Los integrantes se comprometen a trabajar de manera responsable, colaborativa y 
 
 ### Fecha
 
-29 / 5 / 2026
+29 / 05 / 2026
 
-### Firma
-<img width="150" height="70" alt="image" src="https://github.com/user-attachments/assets/e44f28ae-11f9-4790-900b-a248b79bd4b4" />
-
+### Firmas
+<img width="186" height="106" alt="image" src="https://github.com/user-attachments/assets/e44f28ae-11f9-4790-900b-a248b79bd4b4" /><br><br>
 ---
+**María Alejandra Osuna Gil**
+<br><br><br>
 
-María Alejandra Osuna Gil
-
+<img width="186" height="106" alt="image" src="https://github.com/user-attachments/assets/b74e5e62-6399-45a9-af96-b992962610c6" /><br><br>
 ---
-
-Mateo Guerra Londono
+**Mateo Guerra Londono**
