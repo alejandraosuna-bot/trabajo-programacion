@@ -21,14 +21,15 @@ Estudiante de Ingenieria Industrial
 
 Fortalezas:
 
-*Toma de decisiones
-*Disciplina
-*Persistencia
+* Toma de decisiones
+* Disciplina
+* Persistencia
 
 Habilidades:
 
-*Aprendizaje rápido 
-*Pensamiento Analitico
+* Aprendizaje rápido 
+* Pensamiento Analitico
+  
 
 
 
