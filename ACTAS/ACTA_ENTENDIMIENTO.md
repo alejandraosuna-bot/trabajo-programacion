@@ -9,7 +9,7 @@
 
 ### Objetivo General
 
-Desarrollar el sistema "SimplePrestamos", una aplicación en Python que permita gestionar usuarios, artículos, préstamos, devoluciones y reportes, cumpliendo con los requisitos establecidos para la asignatura.
+Trabajar en equipo para diseñar y desarrollar un sistema de gestión de préstamos que facilite el registro y control de usuarios, artículos y préstamos, cumpliendo las especificaciones del proyecto y fortaleciendo nuestras habilidades de programación, trabajo colaborativo y desarrollo de software.
 
 ### Objetivos Comunes
 
