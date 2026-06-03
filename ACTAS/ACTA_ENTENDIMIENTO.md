@@ -23,7 +23,7 @@ Trabajar en equipo para diseñar y desarrollar un sistema de gestión de présta
 * Participación activa de todos los miembros.
 * Cumplimiento de las tareas asignadas.
 * Respeto por las opiniones y propuestas de cada integrante.
-* Apoyo mutuo ante dificultades técnicas o académicas.
+* Apoyo mutuo ante dificultades en el proyecto.
 
 ### Compromisos
 
