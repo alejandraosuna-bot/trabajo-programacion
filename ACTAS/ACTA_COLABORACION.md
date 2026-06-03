@@ -16,7 +16,7 @@ El equipo trabajará de manera colaborativa utilizando GitHub para el control de
 * Comunicación mediante WhatsApp.
 * Reuniones virtuales o presenciales cuando sea necesario.
 * Seguimiento semanal del avance del proyecto.
-* Notificación inmediata de dificultades o retrasos.
+* Comunicación ante dificultades o retrasos.
 
 ### Resolución de Conflictos
 
